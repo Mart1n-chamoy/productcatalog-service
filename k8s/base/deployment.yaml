@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: productcatalogservice
-          image: mart1n-chamoy/productcatalogservice:latest
+          image: martin555/productcatalogservice:latest
           ports:
             - containerPort: 8080
